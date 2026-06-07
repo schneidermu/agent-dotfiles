@@ -1,7 +1,8 @@
 # Session context (handoff file)
 
-> **Update this when switching between Cursor, Codex, or Claude Code.**  
-> Delete sections that are no longer relevant. Keep it short.
+> **End session:** invoke `handoff-context` skill (or say "handoff").  
+> **Start session:** invoke `resume-project` skill (or say "resume").  
+> Keep this file short. Commit and push before switching devices.
 
 ## Last updated
 

@@ -30,6 +30,7 @@ Full-time ML researcher (AI4Science, chemistry). Part-time Python developer. Use
 - Execute commands and investigate failures — don't stop after one error
 - Use domain skills (`rdkit`, `pytorch-lightning`, `literature-review`, etc.) instead of improvising
 
-## Handoff phrase
+## Session rituals
 
-When the user says they switched tools: read `CONTEXT.md`, summarize current state, then continue the next unchecked item.
+- **End:** `handoff-context` skill (or "handoff") — writes `CONTEXT.md`
+- **Start:** `resume-project` skill (or "resume") — reads `AGENTS.md` + `CONTEXT.md`, `git log -3`, continues next unchecked item

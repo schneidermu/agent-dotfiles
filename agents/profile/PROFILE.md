@@ -37,6 +37,11 @@
 - Obsidian vault for notes
 - Benchmark / review paper work
 
-## Handoff instruction for any agent
+## Session rituals
 
-When resuming work, read **project `CONTEXT.md` first**, then `AGENTS.md`, then inspect git status and recent commits.
+| When | Skill / phrase |
+|------|----------------|
+| End of session | `handoff-context` — or say **"handoff"** |
+| Start of session | `resume-project` — or say **"resume"** |
+
+Resume prompt: *Read AGENTS.md and CONTEXT.md, check git log -3, and continue the next unchecked item.*
